@@ -26,7 +26,7 @@ Simulate the assembly and verify the operation of the following integrated circu
 | **4044** → NAME?  | ![NAME?](imagen_xor.png) |
 | **74100** → NAME?   | ![NAME?](imagen_or.png) |
 | **74175** → NAME?  | ![NAME?](imagen_and.png) |
-| **7476** → NAME? | ![NAME?](<img width="994" height="448" alt="7476 - Oihan Mendiluze" src="https://github.com/user-attachments/assets/42ee2dec-bcc2-42ab-bb1e-31873398e17b" />)  |
+| **7476** → NAME? | ![NAME?](imagen_and.png)  |
 
 | **4027** → NAME?  | ![NAME?](imagen_nor.png) |
 | **74164** → NAME? | ![NAME?](imagen_nand.png) |
