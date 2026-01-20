@@ -23,7 +23,8 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **4044** → NAME?   | ![NAME?](imagen_xor.png) |
+| **4044** → NAME?   | ![<img width="994" height="448" alt="7476 - Oihan Mendiluze" src="https://github.com/user-attachments/assets/6d0ab6f0-9c6b-454a-bc21-21b3cfa60b57" />
+](imagen_xor.png) |
 | **74100** → NAME?  | ![NAME?](imagen_or.png) |
 | **74175** → NAME?  | ![NAME?](imagen_and.png) |
 | **7476** → NAME?   | ![NAME?](imagen_and.png)  |
