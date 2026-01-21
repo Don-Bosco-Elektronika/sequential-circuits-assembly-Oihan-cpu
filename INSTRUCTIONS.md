@@ -23,14 +23,16 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **4044** → NAME?  | ![NAME?](imagen_xor.png) |
-| **74100** → NAME?   | ![NAME?](imagen_or.png) |
-| **74175** → NAME?  | ![NAME?](imagen_and.png) |
-| **7476** → NAME? | ![NAME?](imagen_not.png) |
-| **4027** → NAME?  | ![NAME?](imagen_nor.png) |
-| **74164** → NAME? | ![NAME?](imagen_nand.png) |
-| **74165** → NAME?  | ![NAME?](imagen_not.png) |
-| **74595** → NAME?  | ![NAME?](imagen_and.png) |
+
+| **74175** → NAME?  | <img width="1022" height="539" alt="74175 - Oihan Mendiluze" src="https://github.com/user-attachments/assets/b4b23e3e-6b32-440d-b831-7ba1c569889e" />
+ |
+| **7476** → NAME?   | <img width="994" height="448" alt="7476 - Oihan Mendiluze" src="https://github.com/user-attachments/assets/54388bba-ffeb-4813-9fc9-01fb768065f8" />
+ |
+| **74164** → NAME?  | <img width="996" height="493" alt="74164 - Oihan Mendiluze" src="https://github.com/user-attachments/assets/40cdfcec-9cb8-4f68-b918-3f27cd395d87" />
+ |
+| **74165** → NAME?  | <img width="992" height="524" alt="74165 - Oihan Mendiluze" src="https://github.com/user-attachments/assets/b42fcd34-ffa3-4ce5-9372-8793f850eeac" />
+ |
+
 
 
 ---
